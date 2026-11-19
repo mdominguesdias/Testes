@@ -1,0 +1,6 @@
+{
+  "name": "JS Lab: Loops & Arrays",
+  "description": "Aplicativo educacional interativo para iniciantes aprenderem Arrays e Estruturas de Repetição (for e while) em JavaScript com temática de O Senhor dos Anéis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
